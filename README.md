@@ -1,2 +1,2 @@
 # aframe-workshop
-a rain scene with different objects
+this is a project created during aframe-workshop
